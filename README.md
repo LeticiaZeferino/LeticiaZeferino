@@ -25,7 +25,6 @@ Some things about me:
  
   
   <div>
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LeticiaZeferino.LeticiaZeferino)
 
   <a href = "mailto: leticiazeferinoo60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-zeferino-487794206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -1,10 +1,10 @@
 
- ✨ Leticia Zeferino Repository ✨ 
+ ✨ Repositório Leticia Zeferino ✨ 
  
-Some things about me:
+Um pouco sobre mim:
 
 - 21 years;
-- Greater front-end experience;
+- Programadora Front-end Angular e React.Js;
 
 
 <div>

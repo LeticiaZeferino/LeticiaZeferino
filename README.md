@@ -3,7 +3,7 @@
  
 Um pouco sobre mim:
 
-- 21 years;
+- 22 years;
 - Programadora Front-end Angular e React.Js;
 
 
